@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  quantity: 1
+  from_date: 2019-06-28 19:04:05
+  to_date: 2019-06-28 19:04:05
+
+two:
+  name: MyString
+  quantity: 1
+  from_date: 2019-06-28 19:04:05
+  to_date: 2019-06-28 19:04:05
